@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_PlayerVisualModifier",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_PlayerVisualModifier",
+  "parent":{
+    "name":"Modifiers",
+    "path":"folders/Scripts/Modifiers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

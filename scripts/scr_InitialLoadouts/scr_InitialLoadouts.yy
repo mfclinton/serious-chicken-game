@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_InitialLoadouts",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_InitialLoadouts",
+  "parent":{
+    "name":"Modifiers",
+    "path":"folders/Scripts/Modifiers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

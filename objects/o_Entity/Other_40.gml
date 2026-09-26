@@ -1,0 +1,1 @@
+update_entity_room_state(EntityRoomState.OUTSIDE_ROOM);

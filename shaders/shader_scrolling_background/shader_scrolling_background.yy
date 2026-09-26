@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shader_scrolling_background",
+  "name":"shader_scrolling_background",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

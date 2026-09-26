@@ -1,0 +1,16 @@
+# This repo is a source-only export; sprites, sounds and rooms are not included.
+
+# GameMaker build output
+/cache/
+/output/
+*.yyz
+*.zip
+
+# IDE
+.vs/
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
